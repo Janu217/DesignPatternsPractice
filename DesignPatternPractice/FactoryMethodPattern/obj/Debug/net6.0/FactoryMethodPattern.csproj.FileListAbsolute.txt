@@ -1,0 +1,15 @@
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.csproj.AssemblyReference.cache
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.AssemblyInfo.cs
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\bin\Debug\net6.0\FactoryMethodPattern.exe
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\bin\Debug\net6.0\FactoryMethodPattern.deps.json
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\bin\Debug\net6.0\FactoryMethodPattern.runtimeconfig.json
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\bin\Debug\net6.0\FactoryMethodPattern.dll
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\bin\Debug\net6.0\FactoryMethodPattern.pdb
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.dll
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\refint\FactoryMethodPattern.dll
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.pdb
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\FactoryMethodPattern.genruntimeconfig.cache
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryMethodPattern\obj\Debug\net6.0\ref\FactoryMethodPattern.dll
