@@ -10,5 +10,4 @@ E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\ob
 E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
 E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
 E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
-E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.AssemblyReference.cache
-E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design-Pattern\DesignPatternsPractice\DesignPatternPractice\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csprojAssemblyReference.cache
